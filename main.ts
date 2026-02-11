@@ -2,7 +2,7 @@
  *
  * Created by: Evan Downs
  * Created on: feb 2026
- * This program will print Hello, World!
+ * This program will print Hello, Evan!
 */
 
-basic.showString('Hello, Evan')
+basic.showString('Hello, Evan!')
